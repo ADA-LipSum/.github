@@ -21,7 +21,16 @@
 
   <h2>🖥️ 서비스 화면</h2>
   <p>아래는 현재 개발 중인 서비스 화면입니다.</p>
+  <li>메인 페이지</li>
   <img src="main_page.png" alt="메인 페이지" width="100%" />
+    <li>커뮤니티 페이지</li>
+  <img src="community_page.png" alt="메인 페이지" width="100%" />
+    <li>거래소 페이지</li>
+  <img src="exchange_page.png" alt="메인 페이지" width="100%" />
+    <li>장비 거래 페이지</li>
+  <img src="device_page.png" alt="메인 페이지" width="100%" />
+      <li>프로필 페이지</li>
+  <img src="profile_page.png" alt="메인 페이지" width="100%" />
 </div>
 
 ---
