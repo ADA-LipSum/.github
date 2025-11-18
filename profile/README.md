@@ -6,9 +6,9 @@
 
 <div align="center" style="margin-top: 40px;">
   <h1>
-    <img src="LipSum_logo.png" width="40" style="vertical-align: middle;" />
+    <img src="LipSum_logo_left.png" width="40" style="vertical-align: middle;" />
     LipSum Project
-    <img src="LipSum_logo.png" width="40" style="vertical-align: middle;" />
+    <img src="LipSum_logo_right.png" width="40" style="vertical-align: middle;" />
   </h1>
   <p>학생들의 궁금증을 질문하고 공유하는 곳.</p>
 </div>
