@@ -35,9 +35,12 @@
 
 ---
 
-## 👥 개발자들
+<div align="center">  
+<h2>🧑🏻‍💻 개발자들</h2>
 
-|                                   Frontend                                    |                                   Frontend                                    |                                   Frontend                                    |                                    Backend                                    |                                    Backend                                    |
-| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/108007761?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/140193710?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/214045693?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/162583068?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/126925788?v=4" width="100"> |
-|               [김태호(rlaxogh76)](https://github.com/rlaxogh76)               |                 [박창연(Qlellow)](https://github.com/Qlellow)                 |                [이현우(love09pc)](https://github.com/love09pc)                |             [송주영(Juyoung0809)](https://github.com/Juyoung0809)             |            [류지우(Haryu5412Dev)](https://github.com/Haryu5412Dev)            |
+|                                   Frontend                                    |                                   Frontend                                    |                                   Frontend                                    |                                   Frontend                                    |                                    Backend                                    |                                    Backend                                    |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/108007761?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/162693556?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/140193710?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/214045693?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/162583068?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/126925788?v=4" width="100"> |
+| [김태호(rlaxogh76)](https://github.com/rlaxogh76) | [박건형(rjsgud49)](https://github.com/rjsgud49) | [박창연(Qlellow)](https://github.com/Qlellow) | [이현우(love09pc)](https://github.com/love09pc) | [송주영(Juyoung0809)](https://github.com/Juyoung0809) | [류지우(Haryu5412Dev)](https://github.com/Haryu5412Dev) |
+
+</div>
